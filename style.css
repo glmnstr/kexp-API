@@ -1,0 +1,29 @@
+  .container-fluid {
+      max-width: 80%;
+  }
+
+  #description {
+  	background-color: #FCFCFC;
+      margin-left: 3%;
+      font-size: 12px;
+      font-weight: 500;
+      padding: 20px;
+}
+  }
+  .card-img-top{
+  	max-width: 100%;
+  }
+  .card-text {
+    padding: 15px;
+  }
+  .albumDesc{
+	font-weight: 500;
+  }
+  .release_date{
+    margin: 0px;
+
+    background-color: #F5F4F4;
+    padding: 5px;
+    font-size: 0.8rem;
+
+  }
